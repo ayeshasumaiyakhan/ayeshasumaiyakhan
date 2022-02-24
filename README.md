@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @ayeshasumaiyakhan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ayesha Sumaiya Khan. I'm currently working as a Technical Consultant. 
+
+- 👀 I’m interested in Algorithms, Data Structures and Development using Django
+
+- 🌱 I’m currently learning JavaScript
+
+- 💞️ I’m looking to collaborate on Django projects
+
+- 📫 How to reach me on LinkedIN
 
 <!---
 ayeshasumaiyakhan/ayeshasumaiyakhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
