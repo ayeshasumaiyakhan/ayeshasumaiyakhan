@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ayesha Sumaiya Khan. I'm currently working as a Technical Consultant. 
+- 👋 Hi, I’m *Ayesha Sumaiya Khan*. I'm currently working as a Technical Consultant. 
 
-- 👀 I’m interested in Algorithms, Data Structures and Development using Django
+- 👀 I’m interested in Algorithms, Data Structures, Javascript and Web Development using Django
 
 - 🌱 I’m currently learning JavaScript
 
