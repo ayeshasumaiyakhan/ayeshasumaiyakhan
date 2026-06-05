@@ -1,13 +1,34 @@
-- 👋 Hi, I’m **Ayesha Sumaiya Khan**. I'm currently working as a Technical Consultant. 
+# Hi, I'm Ayesha 👋
 
-- 👀 I’m interested in Algorithms, Data Structures, SpringBoot, Rest API's, Javascript and Web Development using Django
+**Senior Technical Consultant · AI Platform Builder · ERP × AI**
 
-- 🌱 I’m currently learning JavaScript
+> Building AI tools that make ERP consultants dramatically faster
 
-- 📫 You can reach out to me [LinkedIN](https://linkedin.com/in/ayeshasumaiya)
+I'm a Senior Infor M3 Technical Consultant at **Doppio Group**, a global Infor consulting partner. I specialize in CloudSuite Multi-Tenant migrations, XtendM3 development, ION/MEC integrations, and fintech ERP implementations including SWIFT and ISO 20022.
 
+With nearly 5 years in the Infor ecosystem, I sit at the intersection of deep M3 technical expertise and modern AI — designing and building agentic tools that reduce non-billable consultant hours and accelerate project delivery.
 
-<!---
-ayeshasumaiyakhan/ayeshasumaiyakhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🔧 What I work with
+
+**ERP & Integrations**
+`Infor M3` `XtendM3` `ION` `MEC` `CloudSuite` `SWIFT` `ISO 20022`
+
+**AI & Backend**
+`Python` `FastAPI` `ChromaDB` `Claude API` `RAG` `PostgreSQL`
+
+**Frontend & Infra**
+`React` `Vite` `Railway` `REST APIs`
+
+---
+
+### 🏅 Certifications
+
+- 🎓 Infor Certified M3 Technical Associate – XtendM3
+
+---
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayeshasumaiya-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ayeshasumaiya)
