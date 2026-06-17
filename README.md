@@ -6,7 +6,7 @@
 
 I'm a Senior Infor M3 Technical Consultant at **Doppio Group**, a global Infor consulting partner. I specialize in CloudSuite Multi-Tenant migrations, XtendM3 development, ION/MEC integrations, and fintech ERP implementations including SWIFT and ISO 20022.
 
-With nearly 5 years in the Infor ecosystem, I sit at the intersection of deep M3 technical expertise and modern AI — designing and building agentic tools that reduce non-billable consultant hours and accelerate project delivery.
+With nearly 5 years in the Infor ecosystem, I sit at the intersection of deep M3 technical expertise and modern AI - designing and building agentic tools that reduce non-billable consultant hours and accelerate project delivery.
 
 ---
 
